@@ -8,6 +8,8 @@ ESP-01_8266_MAX30102_SPO2_temperature_oled
 
 
 ![2](https://user-images.githubusercontent.com/11606933/210203050-948deb9a-0422-47b1-abba-416a53980955.jpg)
+![图片](https://user-images.githubusercontent.com/11606933/210242566-e031dde8-5090-44df-a337-d4bf48e014ff.png)
+
 ![图片](https://user-images.githubusercontent.com/11606933/210209646-b060d430-0845-45ed-9b6f-13f298137583.png)
 
 硬件详细介绍视频见：https://www.bilibili.com/video/BV1WG4y1m7nQ
